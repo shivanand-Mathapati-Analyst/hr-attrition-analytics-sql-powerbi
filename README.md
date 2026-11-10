@@ -246,12 +246,23 @@ HR-Analytics-SQL-PowerBI/
 
 ## 🔗 Related Projects
 
+More projects from my data analytics portfolio, built with SQL Server, Power BI and Excel:
+
+### 🛒 Customer Segmentation (RFM Analysis): Online Retail dataset
+
 | Project | Tool | Link |
-| --- | --- | --- |
-| 🗄️ Customer Segmentation using RFM | SQL Server | *\[Add link here\]* |
-| 📊 Superstore Sales Analysis | Power BI | [github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project](https://github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project) |
-| 🗄️ Superstore Sales Analysis | SQL Server | [github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
-| 📗 Superstore Sales Analysis | Excel | [github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
+|---|---|---|
+| 📊 Customer Segmentation Analysis | Power BI | [powerbi-customer-segmentation-analysis](https://github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis) |
+| 🗄️ Customer Segmentation Analysis | SQL Server | [sql-customer-segmentation-analysis](https://github.com/shivanand-Mathapati-Analyst/sql-customer-segmentation-analysis) |
+| 📗 Customer Segmentation Analysis | Excel | [excel-customer-segmentation-analysis](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) |
+
+### 📦 Sales & Profitability Analysis: Superstore dataset
+
+| Project | Tool | Link |
+|---|---|---|
+| 📊 Superstore Sales Analysis | Power BI | [powerbi-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) |
+| 🗄️ Superstore Sales Analysis | SQL Server | [sql-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
+| 📗 Superstore Sales Analysis | Excel | [excel-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
 
 ---
 
