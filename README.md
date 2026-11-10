@@ -56,13 +56,15 @@ Every cleaning decision is backed by a check query run before and after, so no r
 
 | Executive Summary | Workforce & Diversity |
 |---|---|
-| ![Executive Summary](05_Screenshots/01_overview.png) | ![Workforce](05_Screenshots/02_workforce.png) |
+| ![Executive Summary](images/01_overview.png) | ![Workforce](images/02_workforce.png) |
 | **Attrition** | **Compensation** |
-| ![Attrition](05_Screenshots/03_attrition.png) | ![Compensation](05_Screenshots/04_compensation.png) |
+| ![Attrition](images/03_attrition.png) | ![Compensation](images/04_compensation.png) |
 | **Performance & Engagement** | **Recruitment** |
-| ![Performance](05_Screenshots/05_performance.png) | ![Recruitment](05_Screenshots/06_recruitment.png) |
+| ![Performance](images/05_performance.png) | ![Recruitment](images/06_recruitment.png) |
 | **Managers** | **Drill-through: Employee Detail** |
-| ![Managers](05_Screenshots/07_managers.png) | ![Detail](05_Screenshots/08_employee_detail.png) |
+| ![Managers](images/07_managers.png) | ![Detail](images/08_employee_detail.png) |
+| **Custom Tooltip** |
+| ![Managers](images/09_tooltip.png) |
 
 ---
 
