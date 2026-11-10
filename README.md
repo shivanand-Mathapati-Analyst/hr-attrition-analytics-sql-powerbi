@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👥 HR Analytics: Workforce, Attrition & Pay — SQL Server + Power BI
+# 👥 HR Analytics: Employee Attrition, Workforce & Compensation Analysis
+### SQL Server + Power BI
 
 ### End-to-end pipeline: raw HR CSV → cleaned star schema → 11 analysis views → one-page, 7-section Power BI dashboard
 
