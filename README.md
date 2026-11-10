@@ -1,8 +1,11 @@
+<div align="center">
 # 👥 HR Analytics: Workforce, Attrition & Pay — SQL Server + Power BI
 
 ### End-to-end pipeline: raw HR CSV → cleaned star schema → 11 analysis views → one-page, 7-section Power BI dashboard
 
 [![Tool](https://img.shields.io/badge/Tool-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%2B%20Bookmarks-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-power-bi-dashboard) [![T-SQL](https://img.shields.io/badge/T--SQL-11%20Views%20%2B%203%20Procedures-217346?style=for-the-badge)](#-reporting-layer) [![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue?style=for-the-badge)](#%EF%B8%8F-data-model) [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
+
+</div>
 
 ---
 
