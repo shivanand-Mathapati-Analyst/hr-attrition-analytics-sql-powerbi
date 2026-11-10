@@ -23,7 +23,6 @@
 - [Power BI Dashboard](#-power-bi-dashboard)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 - [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
 - [Key Findings](#-key-findings)
 - [Root Causes](#-root-causes)
 - [Business Insights](#-business-insights)
@@ -168,7 +167,6 @@ One page (1920 × 1080) with seven sections, switched through bookmarks and a si
 | 06 | Recruitment | Hires and attrition by source |
 | 07 | Managers | Team size, exits and attrition per manager |
 
-**Design:** dark navy background with teal and orange accents, Segoe UI font, left sidebar with 14 custom SVG icons, three shared slicers (Hire Year, Department, Employment Status).
 
 **Extra features:**
 - 7 bookmarks (Display only) plus teal "selected" button copies to show the open section
@@ -185,10 +183,9 @@ One page (1920 × 1080) with seven sections, switched through bookmarks and a si
 | Tool | Purpose |
 | --- | --- |
 | **Microsoft SQL Server** | Database engine, T-SQL |
-| **T-SQL features** | `TRY_CAST`, `TRY_CONVERT`, CTEs, window functions, recursive CTE, computed columns, `CREATE OR ALTER VIEW / PROCEDURE` |
+| **SQL features** | `TRY_CAST`, `TRY_CONVERT`, CTEs, window functions, recursive CTE, computed columns, `CREATE OR ALTER VIEW / PROCEDURE` |
 | **Power BI Desktop** | Data model, DAX, bookmarks, drill-through, custom tooltip |
 | **Excel** | First look at the data and column understanding |
-| **CSV (Kaggle HR Data Set)** | Source dataset |
 
 ---
 
@@ -197,28 +194,12 @@ One page (1920 × 1080) with seven sections, switched through bookmarks and a si
 ```
 HR-Analytics-SQL-PowerBI/
 │
-├── 01_Raw_Data/
-│   └── HRDataset_v14.csv
-├── 02_Data_Dictionary/
-├── 03_SQL/                     # import, validation, cleaning, model, views, procedures
-├── 04_PowerBI/
+├── sqlscript/                     # import, validation, cleaning, model, views, procedures
+├── dashboard/
 │   ├── HR_Analytics_Dashboard.pbix
-│   ├── Theme/
-│   └── Assets/                 # 14 icons, 7 avatars
-├── 05_Screenshots/             # images used in this README
-├── 06_Documentation/           # project report (.docx)
+├── images
 └── README.md
 ```
-
----
-
-## 🚀 How to Use
-
-1. Create the database `HRAnalyticsDB` and the schemas `original`, `datamodel` and `reporting`
-2. Import `HRDataset_v14.csv` with SSMS **Import Flat File** (all columns `nvarchar(100)`) into `original.HRDataset_v14`
-3. Run the scripts in `03_SQL` from top to bottom: copy → validation → cleaning → dimensions → fact → analysis views → procedures → Power BI feed views
-4. Open `HR_Analytics_Dashboard.pbix` in Power BI Desktop, change the SQL Server name in the data source, and refresh
-5. Query any `reporting.*` view or call the stored procedures to explore the analysis in SQL
 
 ---
 
@@ -278,11 +259,11 @@ HR-Analytics-SQL-PowerBI/
 
 **Shivanand S. Mathapati**
 
-- 🌐 Portfolio: [shivanand-mathapati.vercel.app](https://shivanand-mathapati.vercel.app)
-- 🐙 GitHub: [shivanand-Mathapati-Analyst](https://github.com/shivanand-Mathapati-Analyst)
-- 💼 LinkedIn: *\[Add link here\]*
-- 📺 YouTube: *\[Add link here\]*
-- ✉️ Email: plotforge64@gmail.com
+- 🌐 Portfolio:
+- 🐙 GitHub:
+- 💼 LinkedIn:
+- 📺 YouTube:
+- ✉️ Email:
 
 ---
 
